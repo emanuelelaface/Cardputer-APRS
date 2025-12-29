@@ -1,5 +1,7 @@
 # Cardputer ADV APRS over LoRa (EU868) + GNSS
 
+![Screenshot](https://github.com/emanuelelaface/Cardputer-APRS/blob/main/Cardputer-APRS.jpeg)
+
 Firmware for **M5Stack Cardputer ADV** that shows GNSS data (grid + satellite sky plot + battery) and sends the current position as an **APRS (TNC2) position packet over LoRa (EU868)**.
 
 ## What it does
